@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/temirlannz/temirlannz/master/head.gif" alt="banner" />
-<h1 align="center">Hi 👋, I'm Temirlan</h1>
-<h3 align="center">An enthusiast web-developer</h3>
+<img src="https://raw.githubusercontent.com/temirlannz/temirlannz/master/banner.gif" alt="banner" />
+<h1 align="left">Hi 👋, I'm Temirlan</h1>
+<h3 align="left">An enthusiast web-developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temirlannz&label=Profile%20views&color=0e75b6&style=flat" alt="temirlannz" /> </p>
 
