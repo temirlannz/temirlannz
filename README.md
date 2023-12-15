@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Temirlan</h1>
 <h3 align="left">An enthusiast web-developer</h3>
 
-- 📫 How to reach me **t.zhanibek@bk.ru**
+- 📫 How to reach me **temirlannz@mail.com**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
