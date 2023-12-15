@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/temirlannz/temirlannz/master/banner.gif" alt="banner" />
+<img src="https://raw.githubusercontent.com/temirlannz/temirlannz/master/banner.gif" alt="temirlannz Zhanibek Temirkan an enthusiast web-developer" />
 <h1 align="left">Hi 👋, I'm Temirlan</h1>
 <h3 align="left">An enthusiast web-developer</h3>
 
