@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/temirlannz/temirlannz/master/head.gif" alt="banner" />
 <h1 align="center">Hi 👋, I'm Temirlan</h1>
 <h3 align="center">An enthusiast web-developer</h3>
 
