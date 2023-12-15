@@ -6,13 +6,17 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/temirlannz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="temirlannz" height="30" width="40" /></a>
+  <a href="https://instagram.com/temirlannz" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  </a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,mongodb,mysql,postgres,prisma,tailwind,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,tailwind,ps,figma)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirlannz&show_icons=true&theme=dark&locale=en&layout=compact" alt="temirlannz" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temirlannz&show_icons=true&theme=dark&locale=en&layout=compact" alt="temirlannz" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temirlannz&show_icons=true&theme=dark&locale=en" alt="temirlannz" /></p>
