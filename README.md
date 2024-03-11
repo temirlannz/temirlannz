@@ -13,7 +13,7 @@ class Temirlan {
 
 class Attributes extends Temirlan {
     get contact() {
-        const instagram = "temirlannz";
+        const instagram = "instagram.com/temirlannz";
         const telegram = "t.me/temirlannz";
         const email = "t.zhanibek@bk.ru";
         
