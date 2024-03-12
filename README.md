@@ -1,45 +1,17 @@
 <h2 align="center">About Me </h2>
 
 ```javascript
-class Temirlan {
-    constructor(name) {
-        this.name = name;
-    }
-
-    introduction() {
-        return `Hello, my name is ${this.name}. I'm a full-stack developer!`;
-    }
-}
-
-class Attributes extends Temirlan {
-    get contact() {
-        const instagram = "instagram.com/temirlannz";
-        const telegram = "t.me/temirlannz";
-        const email = "t.zhanibek@bk.ru";
-        
-        return [instagram, telegram, email];
-    }
-
-    get life() {
-        const langs = ['Kazakh', 'English', 'Russian'];
-        const age = 21;
-        
-        return [langs, age];
-    }
-
-    get coding() {
-        const langs = {
-            'good in': ['javascript'],
-            'intermediate': ['python'],
-        };
-        const specialities = ['front-end', 'fullstack'];
-        const environment = ['webstorm'];
-
-        return [langs, specialities, environment];
+const Temirlan = {
+    about: "Hello, my name is Temirlan! I'm a full-stack developer.",
+    code: ["javascipt", "python"],
+    langs: ["Kazakh", "English", "Russian"],
+    environment: "webstorm",
+    contact: {
+        telegram: "t.me/temirlannz",
+        instagram: "instagram.com/temiralnnz",
+        email: "t.zhanibek@bk.ru",
     }
 }
-
-const temirlan = new Attributes("Temirlan");
 ```
 
 <h2 align="center">Skills</h2>
