@@ -4,7 +4,7 @@
 const Temirlan = {
     about: "Hello, my name is Temirlan! I'm a full-stack developer.",
     code: ["javascipt", "python"],
-    langs: ["Kazakh", "English", "Russian"],
+    languages: ["Kazakh", "English", "Russian"],
     environment: "webstorm",
     contact: {
         telegram: "t.me/temirlannz",
