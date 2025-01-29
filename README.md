@@ -3,7 +3,7 @@
 ```javascript
 const Temirlan = {
     about: "Hello, my name is Temirlan! I'm a full-stack developer.",
-    code: ["javascript", "python"],
+    code: ["javascript", "typescript, node.js"],
     languages: ["Kazakh", "English", "Russian"],
     environment: "webstorm",
     contact: {
@@ -18,7 +18,7 @@ const Temirlan = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,react,nextjs,nodejs,express,postgres,prisma,tailwind,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,react,nextjs,nodejs,nestjs,express,postgres,prisma,tailwind,ps,figma" />
   </a>
 </p>
 
