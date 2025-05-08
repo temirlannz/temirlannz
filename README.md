@@ -8,8 +8,8 @@ const Temirlan = {
     environment: "webstorm",
     contact: {
         telegram: "t.me/temirlannz",
-        instagram: "instagram.com/temiralnnz",
-        email: "t.zhanibek@bk.ru",
+        instagram: "instagram.com/temirlannz",
+        email: "temirlan.zhanibek1@gmail.com",
     }
 }
 ```
