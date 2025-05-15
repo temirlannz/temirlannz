@@ -3,7 +3,7 @@
 ```javascript
 const Temirlan = {
     about: "Hello, my name is Temirlan! I'm a full-stack developer.",
-    code: ["javascript", "typescript, node.js"],
+    code: ["typescript, node.js, nest.js"],
     languages: ["Kazakh", "English", "Russian"],
     environment: "webstorm",
     contact: {
