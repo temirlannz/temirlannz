@@ -17,7 +17,7 @@ const Temirlan = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,typeorm,rust,actix" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,redis,rust,actix" />
   </a>
 </p>
 
