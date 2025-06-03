@@ -3,12 +3,11 @@
 ```javascript
 const Temirlan = {
     about: "Hello, my name is Temirlan! I'm a full-stack developer.",
-    code: ["typescript, node.js, nest.js"],
+    code: ["typescript, node.js, rust"],
     languages: ["Kazakh", "English", "Russian"],
-    environment: "webstorm",
+    environment: "webstorm, rust rover",
     contact: {
         telegram: "t.me/temirlannz",
-        instagram: "instagram.com/temirlannz",
         email: "temirlan.zhanibek1@gmail.com",
     }
 }
@@ -18,7 +17,7 @@ const Temirlan = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,react,nextjs,nodejs,nestjs,express,postgres,prisma,tailwind,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,prisma,rust" />
   </a>
 </p>
 
