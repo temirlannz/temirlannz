@@ -2,7 +2,7 @@
 
 ```javascript
 const Temirlan = {
-    about: "Hello, my name is Temirlan! I'm a full-stack developer.",
+    about: "Hello, my name is Temirlan! I'm a full-stack developer && rust enthusiast",
     code: ["typescript, node.js, rust"],
     languages: ["Kazakh", "English", "Russian"],
     environment: "webstorm, rust rover",
