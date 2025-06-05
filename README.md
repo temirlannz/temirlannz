@@ -7,7 +7,7 @@ const Temirlan = {
     languages: ["Kazakh", "English", "Russian"],
     environment: "webstorm, rust rover",
     contact: {
-        telegram: "t.me/temirlannz",
+        telegram: "t.me/temirlann",
         email: "temirlan.zhanibek1@gmail.com",
     }
 }
